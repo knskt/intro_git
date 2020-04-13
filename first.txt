@@ -3,3 +3,4 @@ git‚ÌÅ‰‚Ìƒtƒ@ƒCƒ‹
 add‚Ì—ûK
 
 4/13
+git status
